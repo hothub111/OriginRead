@@ -1,0 +1,25 @@
+# 编译生成的文件
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# 忽略打包生成的文件和日志
+*.apk
+*.aab
+*.apk.*
+release/
+*.log
+
+# 忽略签名文件（非常重要）
+*.jks
+*.keystore
+keystore.properties
+signing-info.txt
+
+

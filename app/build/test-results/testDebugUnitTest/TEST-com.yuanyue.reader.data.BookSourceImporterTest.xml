@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.yuanyue.reader.data.BookSourceImporterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-31T13:43:00" hostname="LAPTOP-N5Q453VI" time="0.013">
+  <properties/>
+  <testcase name="parses legacy flat source json" classname="com.yuanyue.reader.data.BookSourceImporterTest" time="0.007"/>
+  <testcase name="parses legado nested source json" classname="com.yuanyue.reader.data.BookSourceImporterTest" time="0.0"/>
+  <testcase name="rejects arrays with a clear message" classname="com.yuanyue.reader.data.BookSourceImporterTest" time="0.004"/>
+  <testcase name="to json round trips basic fields" classname="com.yuanyue.reader.data.BookSourceImporterTest" time="0.001"/>
+  <testcase name="reports missing required rules" classname="com.yuanyue.reader.data.BookSourceImporterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
