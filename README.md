@@ -1,9 +1,4 @@
-原阅 (OriginRead)一个免费好用的 RSS + 在线书源 Android 阅读器项目 
-https://img.shields.io/badge/license-MIT-blue.svg
-https://img.shields.io/badge/platform-Android-green.svg
-https://img.shields.io/badge/Kotlin-1.9+-purple.svg
-https://img.shields.io/badge/Jetpack%20Compose-Material%203-blueviolet.svg 
- 
+一个免费好用的RSS+在线书源 Android 阅读器项目
 📖 项目简介
  
 原阅 (OriginRead) 是一个以白色为主色调的 Android 阅读器 App，集成了 RSS 订阅、本地电子书阅读和全网热榜聚合功能。项目完全本地化运行，无内置账号系统，所有数据均保存在本地，致力于为用户提供纯净、私密的阅读体验。‌￼ 
